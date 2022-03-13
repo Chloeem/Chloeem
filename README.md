@@ -7,6 +7,6 @@ Nice to meet you!
 
 <img src = "https://github-readme-stats.vercel.app/api?username=chloeem&&show_icons=true&title_colo[%E2%80%A6]f&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloeem&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloeem&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloeem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloeem&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)

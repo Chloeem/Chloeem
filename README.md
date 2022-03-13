@@ -5,6 +5,13 @@ Nice to meet you!
 - :globe_with_meridians: I'd love to connect with fellow developers
 - :rocket: Reach me at chloeemstokes@gmail.com 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloeem&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloeem&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)

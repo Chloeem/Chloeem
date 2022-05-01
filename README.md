@@ -16,4 +16,5 @@ If the above aligns with your company or you'd just like to have a chat, I'd lov
 
 Thanks for reading!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloeem&layout=compact&theme=merko&text_color=#FFFFFF)](https://github.com/anuraghazra/github-readme-stats) ![Chloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloeem&show_icons=true&theme=merko)
+![Chloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloeem&show_icons=true&theme=merko)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloeem&layout=compact&theme=merko&text_color=#FFFFFF)](https://github.com/anuraghazra/github-readme-stats)

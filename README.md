@@ -2,7 +2,7 @@ Hello :)
 
 I'm Chloë, welcome to my profile.
 
-I have just completed the (10% selective) Makers Academy Bootcamp in Software Engineering, gratefully chosen out of 200 potential candidates down to 6 as a scholar and ambassador student with Codebar. 
+I have just completed the (10% acceptance) Makers Academy Bootcamp in Software Engineering, gratefully chosen out of 200 potential candidates down to 6 as a scholar and ambassador student with Codebar. 
 
 I am currently about to start mentoring with Codebar and Makers, along with learning Ruby on Rails and setting some good practices in place with the 'Foundations of Humane Technology' course at the Centre for Humane Technology.
 

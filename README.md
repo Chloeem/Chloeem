@@ -1,4 +1,5 @@
-<a href="https://github.com/Chloeem/CV">CV </a>|<a href="https://docs.google.com/spreadsheets/d/1kwFnr34pTHlpOYI-TR2UMZP0UubJzq7AimpX-bcVn4A/edit?usp=sharing"> Pairing Feedback </a>|
+<!-- <a href="https://github.com/Chloeem/CV">CV </a>| -->
+<a href="https://docs.google.com/spreadsheets/d/1kwFnr34pTHlpOYI-TR2UMZP0UubJzq7AimpX-bcVn4A/edit?usp=sharing"> Pairing Feedback </a>|
 
 Hello :)
 

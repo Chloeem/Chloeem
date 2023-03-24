@@ -1,6 +1,7 @@
 <!-- <a href="https://github.com/Chloeem/CV">CV </a>| -->
 <a href="https://docs.google.com/spreadsheets/d/1kwFnr34pTHlpOYI-TR2UMZP0UubJzq7AimpX-bcVn4A/edit?usp=sharing"> Pairing Feedback </a>| <a href="https://test.high5test.com/test/SOQLCGIPJBAU">HIGH5 Strengths</a>
 
+
 Hello :)
 
 I'm Chloë, welcome to my profile.
@@ -21,3 +22,4 @@ Thanks for reading!
 
 ![Chloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloeem&show_icons=true&theme=merko)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloeem&layout=compact&theme=merko&text_color=#FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+ ![Visitor Count](https://profile-counter.glitch.me/{CHLOEEM}/count.svg)
